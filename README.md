@@ -18,7 +18,7 @@ The goal of this project is to demonstrate proficiency in data analysis, visuali
 
 ## Sales Data Analysis
 
-In this section, I performed exploratory data analysis on the sales dataset. I utilized SQL code blocks to answer specific questions provided by the bank, such as retrieving sales information, calculating total sales amounts, and identifying top-selling products.
+In this section, I utilized SQL code blocks to answer specific questions provided by the bank, such as retrieving sales information, calculating total sales amounts, and identifying top-selling products.
 
 ## Reporting
 
