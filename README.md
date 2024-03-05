@@ -32,7 +32,7 @@ The repository is organized into folders:
 
 **Question 2:** Contains subfolders:
 
-- **Reports:** Includes initial CSV reports generated from Python in Jupyter Notebook format and final reports in Excel format. The final reports are enhanced with color-coding, bold formatting, and visualizations for improved readability. 
+- **Reports:** Includes initial CSV reports generated from Python in Jupyter Notebook format and final report in Excel format. The final report is enhanced with color-coding, bold formatting, and visualizations for improved readability. 
 ** Note: The formatting and visualization on the excel file does not appear in preview mode. You will have to download the file to view the customization.
 - **Images:** Stores images of the visualizations generated for inclusion in the reports.
 - **Code Notebook:** Contains a Jupyter Notebook with step-by-step code for generating the initial report. Each step is accompanied by explanations of the rationale behind the code implementation.
