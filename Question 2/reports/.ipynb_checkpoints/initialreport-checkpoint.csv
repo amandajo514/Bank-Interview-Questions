@@ -1,0 +1,7 @@
+Sale ID,Sale Date,Product Name,Quantity Sold,Amount,Metric,Value
+1.0,2023-01-05,Widget A,2.0,120.5,,
+2.0,2023-01-07,Widget C,1.0,75.2,,
+3.0,2023-01-10,Widget B,3.0,180.0,,
+,,,,,Total Sales Amount,375.7
+,,,,,Highest Selling Product,180.0
+,,,,,Lowest Selling Product,75.2
